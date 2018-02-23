@@ -1,6 +1,7 @@
 #hero-container {
   background: url('../img/elon-musk.jpg') no-repeat;
   background-size: cover;
+  background-position: center;
 }
 #title {
   border: 6px solid white;
@@ -16,7 +17,7 @@
   z-index: 1;
 }
 #quote {
-  padding: 5% 0;
+  /* padding: 5% 0; */
   font-size: 1.5em;
   text-align: center;
   font-style: italic;
@@ -42,13 +43,13 @@
   background-color: #F97A05;
 }
 #timeline-container {
-  margin-top: 10%;
+  /* margin-top: 10%; */
 }
 .title-b {
   font-size: 1.5em;
 }
 #media {
-  padding: 10% 20% 2% 20%;
+  /* padding: 10% 20% 2% 20%; */
 }
 #media a {
   font-size: 2em;
